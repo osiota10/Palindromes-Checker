@@ -10,6 +10,6 @@ A palindrome is a word, number, phrase, or other sequence of characters which re
 3. The program ignores spaces and punctuation characters
 
 ### How to use the Program
-1. Enter Python is installed in your Machine
+1. Ensure Python is installed on your Machine
 1. Clone or download the source code
 2. Run in your code editor
